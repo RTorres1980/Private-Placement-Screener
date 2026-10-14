@@ -1,0 +1,31 @@
+deal_id,issuer,sector,naic_designation,size_musd,tenor_years,coupon_pct,spread_bps,leverage_x,interest_coverage_x,financial_covenants,secured
+PP-001,Issuer A1,Utilities,1.F,200,15,5.49,139,2.63,6.65,True,False
+PP-002,Issuer B1,Real Estate,3.B,100,12,6.09,199,3.83,4.35,True,True
+PP-003,Issuer C1,Utilities,1.F,200,15,5.64,154,3.26,5.85,True,False
+PP-004,Issuer D1,Industrials,2.C,150,20,6.47,237,3.52,5.7,True,False
+PP-005,Issuer E1,Industrials,2.C,50,7,6.12,202,4.78,3.2,False,False
+PP-006,Issuer F1,Healthcare,1.G,300,10,6.07,197,2.67,5.24,False,True
+PP-007,Issuer G1,Utilities,2.A,50,10,6.21,211,2.95,6.4,True,True
+PP-008,Issuer H1,Consumer,1.G,150,5,5.63,153,2.63,6.3,False,False
+PP-009,Issuer I1,Utilities,1.D,50,12,4.93,83,2.42,4.66,True,False
+PP-010,Issuer J1,Real Estate,2.A,25,5,5.71,161,3.27,4.46,True,False
+PP-011,Issuer K1,Consumer,1.F,25,10,5.86,176,3.42,5.17,True,True
+PP-012,Issuer L1,Consumer,1.F,100,5,5.5,140,2.27,5.45,True,False
+PP-013,Issuer M1,Real Estate,1.E,150,10,5.24,114,2.49,5.72,True,True
+PP-014,Issuer N1,Healthcare,1.E,75,10,5.27,117,3.48,3.61,True,True
+PP-015,Issuer O1,Technology,2.C,150,12,6.21,211,3.58,5.17,False,True
+PP-016,Issuer P1,Consumer,1.G,50,5,5.79,169,3.2,5.53,True,False
+PP-017,Issuer Q1,Healthcare,1.F,100,7,5.81,171,3.54,5.04,True,True
+PP-018,Issuer R1,Infrastructure,2.A,200,15,6.11,201,3.49,6.12,True,False
+PP-019,Issuer S1,Infrastructure,2.B,25,20,5.9,180,3.06,5.24,True,True
+PP-020,Issuer T1,Utilities,2.B,200,15,6.04,194,2.2,6.41,True,False
+PP-021,Issuer U1,Industrials,3.A,150,12,6.15,205,5.44,4.04,True,False
+PP-022,Issuer V1,Technology,1.E,200,20,5.52,142,2.58,5.11,True,True
+PP-023,Issuer W1,Technology,1.G,50,20,5.58,148,3.64,5.35,True,True
+PP-024,Issuer X1,Healthcare,1.F,150,15,5.43,133,2.31,5.44,True,False
+PP-025,Issuer Y1,Healthcare,1.A,75,12,5.33,123,2.29,6.71,True,False
+PP-026,Issuer Z1,Real Estate,1.E,150,10,5.52,142,2.63,7.77,True,True
+PP-027,Issuer A2,Consumer,1.G,150,20,5.91,181,2.91,5.93,True,True
+PP-028,Issuer B2,Industrials,1.G,150,15,6.25,215,2.34,5.84,True,True
+PP-029,Issuer C2,Technology,2.B,200,12,6.21,211,3.66,6.65,True,True
+PP-030,Issuer D2,Utilities,2.A,50,15,5.91,181,2.87,5.33,True,False
