@@ -1,5 +1,7 @@
 # Private Placement Screener
 
+![CI](https://github.com/RTorres1980/Private-Placement-Screener/actions/workflows/ci.yml/badge.svg)
+
 Screens and ranks private placement note offerings the way an institutional buyer, such as an insurance company investment team, would. It applies hard credit limits first, then ranks the remaining deals on relative value, credit strength and structure.
 
 Private placements don't trade on an exchange, so the screen works from the offering terms and issuer financials rather than market prices or trading volume.
